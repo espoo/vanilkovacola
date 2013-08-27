@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #000000;
+  background : #191919;
+  text-align: center;
+	scrollbar-face-color: #191919;
+	scrollbar-highlight-color: #191919;
+	scrollbar-shadow-color: #191919;
+	scrollbar-3dlight-color: #fafaa5;
+	scrollbar-arrow-color: #fafaa5;
+	scrollbar-track-color: #191919;
+	scrollbar-darkshadow-color: #fafaa5;
+}
+
+body, td, th {
+	font-family: Calibri;
+	font-size: 12pt;
+}
+
+#menu {
+  text-transform: uppercase;
+  table-layout: fixed;
+  width: 100%;
+}
+
+#menu td {
+  background-color: #fafaa5;
+  border: 0px solid #000000;
+  text-align: center;
+  font-weight: bold;
+}
+
+.nadpis1 {
+	margin: 0;
+	padding: 0;
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+
+.nadpis2 {
+	margin: 0;
+	padding: 0;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.cara {
+  margin: 0;
+  padding: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: #000000;
+}
+
+#stred {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  border: 1px solid #000000; 
+  color: #000000;
+  background : #fafaa5 none;
+  text-align: justify;
+  
+}
+
+#nadpisy {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-transform: uppercase;
+}
+
+#hosting {
+  width: 700px;
+  margin-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  margin-bottom: 40px;
+  text-align: right;
+  color: #fafaa5;
+}
+
+
+
+a {
+	color: #cc0000; text-decoration: none; 
+}
+
+a:hover {
+	color: #cc0000; text-decoration: none; 
+}
+
